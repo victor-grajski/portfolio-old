@@ -21,13 +21,12 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_post_list_images -%}
-          <img src="{{ post.image }}">
-        {%- endif -%}
         {%- if site.show_excerpts -%}
           <p>{{ post.excerpt }}</p>
         {%- endif -%}
-        
+        {%- if site.show_post_list_images -%}
+          <img src="{{ post.image }}">
+        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
