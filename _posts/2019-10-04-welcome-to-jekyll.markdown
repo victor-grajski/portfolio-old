@@ -6,6 +6,7 @@ categories: jekyll update
 permalink: "/shoom"
 excerpt: "Shoom is an app to help emerging musical artists control their destiny by showing them where their potential new fans are and by allowing them to book gigs with similar artists."
 image: /assets/shoom/splash-screen.png
+category: "Product Design"
 ---
 ## Overview
 Shoom is an app to help emerging musical artists control their destiny by showing them where their potential new fans are and by allowing them to book gigs with similar artists. I designed it as part of a group project for a User Interface Design course at the UC Berkeley School of Information. The project was designed to serve as an introduction to the full UX process from user research to hi-fi mockups.
