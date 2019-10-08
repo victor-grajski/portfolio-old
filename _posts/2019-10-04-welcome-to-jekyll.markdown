@@ -5,7 +5,7 @@ date:   2019-10-04 12:52:01 -0700
 categories: jekyll update
 permalink: "/shoom"
 excerpt: "Shoom is an app to help emerging musical artists control their destiny by showing them where their potential new fans are and by allowing them to book gigs with similar artists."
-image: /assets/shoom/fan-discovery.png
+image: /assets/shoom/splash-screen.png
 ---
 ## Overview
 Shoom is an app to help emerging musical artists control their destiny by showing them where their potential new fans are and by allowing them to book gigs with similar artists. I designed it as part of a group project for a User Interface Design course at the UC Berkeley School of Information. The project was designed to serve as an introduction to the full UX process from user research to hi-fi mockups.
@@ -21,7 +21,7 @@ Each of us autonomously did conducted user research and designed flows for each 
 ## Problem Space
 Due to the aforementioned shift in the music industry, artists tour far more frequently than they used to in order to sustain their work. However, touring is both physically and financially draining, and most emerging artists make no profit or even lose money from touring. **How might we enable emerging artists to profit more from touring?**
 
-<img src="/assets/shoom/pie-chart.png" alt="pie-chart" width="450" />
+<img src="/assets/shoom/pie-chart.png" alt="pie-chart" />
 
 ##### This recent artist revenue breakdown from PwC (apologies for the pie chart) illustrates just how much artists rely on touring
 
@@ -48,7 +48,7 @@ In a world where artists are their own analytics managers, booking agents, and t
 ### User Flow
 The initial user flow I hypothesized entailed a blend of Spotify Analytics, Instagram, and Airbnb. Even before creating a lo-fi mockup, I sensed the scope would be too much to take on in an Intro to UX class, but at the time, I believed the best way to test my hypotheses was to design a full lo-fi mockup and then conduct exploratory interviews rather than the other way around.
 
-<img src="/assets/shoom/user-flow.png" alt="user-flow" width="450" />
+<img src="/assets/shoom/user-flow.png" alt="user-flow" />
 
 ### Lo-Fi Mockup
 To test these hypotheses, I first created a lo-fi mockup of an automated tour planning service built on a foundation of fan analytics and direct venue booking.
@@ -57,21 +57,21 @@ To test these hypotheses, I first created a lo-fi mockup of an automated tour pl
 #### Fan Analytics
 For Fan Analytics, I provided a heat map that shows how many fans of a given artist or genre live in a given city. **Putting this knowledge into artists' hands cuts their touring costs by making them their own analytics managers, and it puts them one step closer to being their own booking agents.** I was inspired by Spotify Artist Analytics to show artists where not only their listeners were, but also where related artist’s listeners were, to inspire them to book shows in places they may not otherwise have considered.
 
-<img src="/assets/shoom/fan-discovery.png" alt="fan-discovery" height="650" />
+<img src="/assets/shoom/fan-discovery.png" alt="fan-discovery" />
 
 ##### Fan Analytics cuts touring costs by giving artists ownership over their streaming data
 
 #### Venue Discovery
 Venue Discovery was designed to help artists find the right venue to play at in an unfamiliar city. I did this by providing a list of venues in a given city ranked by how many related artists had played there recently. **Venue Discovery saves artists money on booking agents by allowing them to understand the scene in any city.**
 
-<img src="/assets/shoom/venue-discovery.png" alt="venue-discovery" height="650" />
+<img src="/assets/shoom/venue-discovery.png" alt="venue-discovery" />
 
 ##### Venue Discovery cuts touring costs by making artists their own booking agents
 
 #### Tour Planning
 Thus, once an artist chose the cities they wanted to tour in using the Fan Analytics feature, the automated Tour Planner would string together a series of booking requests to the most compatible venues in each of those cities. **Enabling artists to book their own tours saves them money on booking agents and tour managers and lets them keep more of their hard-earned money.**
 
-<img src="/assets/shoom/tour-planner.png" alt="tour-planner" height="650" />
+<img src="/assets/shoom/tour-planner.png" alt="tour-planner" />
 
 ##### Tour Planning cuts touring costs by making artists their own tour managers
 
@@ -101,8 +101,8 @@ Using the initial hi-fi mockup, I conducted three usability tests through UserTe
 ### Final Hi-Fi Mockup
 With this feedback, I created a final hi-fi mockup that showed an artist’s top songs on their profile, allowed artists to chat via Facebook Messenger, and showed whether reviews came from other artists or venues.
 
-<img src="/assets/shoom/discover-bands.png" alt="discover-bands" height="650" />
-<img src="/assets/shoom/band-profile.png" alt="band-profile" width="300" />
+<img src="/assets/shoom/discover-bands.png" alt="discover-bands" />
+<img src="/assets/shoom/band-profile.png" alt="band-profile" />
 
 ##### Giving bands a way to discover each other in the same service as discovering fans and venues addresses artists’ need to grow their fanbase through collaboration
 
