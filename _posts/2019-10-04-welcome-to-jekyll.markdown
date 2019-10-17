@@ -33,7 +33,7 @@ In order to create more touring profit for emerging artists, I hypothesized arti
 
 In a world where artists are their own analytics managers, booking agents, and tour managers, artists will have all the tools they need to be their own managers, thus cutting their costs and allowing them to keep more of their hard-earned money in their pockets.
 
-## Process
+## Timeline and Process
 10 weeks
 * Round 1
   * User Flow: 1 week
