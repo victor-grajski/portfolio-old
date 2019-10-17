@@ -33,7 +33,7 @@ In order to create more touring profit for emerging artists, I hypothesized arti
 
 In a world where artists are their own analytics managers, booking agents, and tour managers, artists will have all the tools they need to be their own managers, thus cutting their costs and allowing them to keep more of their hard-earned money in their pockets.
 
-## Timeline
+## Process
 10 weeks
 * Round 1
   * User Flow: 1 week
@@ -107,7 +107,7 @@ With this feedback, I created a final hi-fi mockup that showed an artist’s top
 
 ##### Giving bands a way to discover each other in the same service as discovering fans and venues addresses artists’ need to grow their fanbase through collaboration
 
-## Overall Lessons Learned
+## Takeaways
 As I mentioned earlier, the biggest lesson I learned was to listen to, and understand, your users as much as possible as early as possible. **Were I to do it all over again, I would start by interviewing as many users as it takes to see patterns, and only then would I begin creating mockups.** Doing so would have freed up time to build and test mockups that addressed artists’ needs more deeply – for example, building specific features showing artists if related acts have played in a given city recently – but given the time constraint of the semester and the setback of creating mockups before interviews, we only had time for a first pass.
 
 Because I feel strongly about enabling emerging artists to circumvent the gatekeepers of the music industry, I’m disappointed that I was only able to go so deep into this project, but I’m encouraged by the fact that in the year since, both Spotify and Apple Music have released artist analytics products, and a number of startups are forming in this space. **Without musicians, we would have no music industry. Let’s put the power back in their hands.**
