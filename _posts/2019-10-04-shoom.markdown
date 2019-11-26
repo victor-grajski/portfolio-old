@@ -20,18 +20,18 @@ Each of us conducted user research and designed flows for each of our stakeholde
 **When I was growing up, I wanted to be a professional musician more than anything.** However, I came of age during a massive shift in the music industry away from physical sales, which brought an equally massive decline in overall revenue. This left me with the impression that making a living as a musician would become even harder than it already was. In the intervening years, my passion for music has not wavered (insert shameless plugs [here](https://www.instagram.com/anima1a1a1a1/) and [here](https://www.instagram.com/eminencebreak/)), but it has had to compete with my passion for UX design/engineering. Hence, when the opportunity arose to create a custom project in my first User Interface Design course, **I jumped at the opportunity to design a service that puts more power in artists’ hands** and empowers them to sustain their work on their own terms.
 
 ## Problem Space
-Due to the aforementioned shift in the music industry, artists tour far more frequently than they used to in order to sustain their work. However, touring is both physically and financially draining, and most emerging artists make no profit or even lose money from touring. **How might we enable emerging artists to profit more from touring?**
+Due to the aforementioned shift in the music industry, artists tour far more frequently than they used to in order to sustain their work. However, touring is both physically and financially draining, and most emerging artists either make no profit or  lose money from touring. **How might we enable emerging artists to profit more from touring?**
 
-<img src="/assets/shoom/pie-chart.png" alt="pie-chart" />
+<img src="/assets/shoom/graph.png" alt="graph" />
 
 ##### This recent artist revenue breakdown from PwC (apologies for the pie chart) illustrates just how much artists rely on touring
 
 In order to create more touring profit for emerging artists, I hypothesized artists need the following:
-1. Artists need to know where their fans are
-2. Artists need to be able to book their own shows
-3. Artists need to be able to manage their own tours (scheduling accommodations, transportation)
+1. Know where their fans are
+2. Book their own shows
+3. Manage their own tours (scheduling accommodations, transportation)
 
-In a world where artists are their own analytics managers, booking agents, and tour managers, artists will have all the tools they need to be their own managers, thus cutting their costs and allowing them to keep more of their hard-earned money in their pockets.
+In a world where artists are their own analytics managers, booking agents, and tour managers, artists will have all the tools they need to be self-sufficient, thus cutting their costs and allowing them to keep more of their hard-earned money in their pockets.
 
 ## Timeline and Process
 10 weeks
