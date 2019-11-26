@@ -8,6 +8,9 @@ excerpt: "Shoom is an app to help emerging musical artists earn more money from 
 image: /assets/shoom/splash-screen.png
 category: "Product Design"
 ---
+
+<img src="/assets/shoom/splash-screen.png" alt="splash" />
+
 ## Overview
 Shoom is an app that helps emerging musical artists earn more money from touring by connecting them with potential new fans and allowing them to book gigs with similar artists. I designed Shoom as part of a group project for a User Interface Design course at the UC Berkeley School of Information. Through the project I gained exposure to the full UX process from discovery and user research, to ideation, to the development of hi-fi mockups.
 
