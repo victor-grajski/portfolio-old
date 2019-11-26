@@ -4,20 +4,20 @@ title:  "Shoom"
 date:   2019-10-04 12:52:01 -0700
 categories: jekyll update
 permalink: "/shoom"
-excerpt: "Shoom is an app to help emerging musical artists control their destiny by showing them where their potential new fans are and by allowing them to book gigs with similar artists."
+excerpt: "Shoom is an app to help emerging musical artists earn more money from touring by showing them where their potential new fans are and by allowing them to book gigs with similar artists."
 image: /assets/shoom/splash-screen.png
 category: "Product Design"
 ---
 ## Overview
-Shoom is an app that helps emerging musical artists control their destiny by connecting  them with potential new fans and allowing them to book gigs with similar artists. I designed Shoom as part of a group project for a User Interface Design course at the UC Berkeley School of Information. Through the project I gained exposure to the full UX process from discovery and user research, to ideation, to the development of hi-fi mockups.
+Shoom is an app that helps emerging musical artists earn more money from touring by connecting them with potential new fans and allowing them to book gigs with similar artists. I designed Shoom as part of a group project for a User Interface Design course at the UC Berkeley School of Information. Through the project I gained exposure to the full UX process from discovery and user research, to ideation, to the development of hi-fi mockups.
 
 ## Role
-Shoom was designed to be part of a larger ecosystem of services. Thus, I pitched a custom course project idea to create services for artists, venues, and concert goers, and I built a team to pursue the idea. One of my teammates, Yi Gai, designed a service that enabled concert goers to request artists to play in their city. Our teammate, Sharanya Soundararajan, designed a service that offered concert venue owners a place to list their venue and handle booking requests from artists.
+Shoom was designed to be part of a larger ecosystem of services. Thus, I pitched a custom course project idea to create services for artists, venues, and concert goers, and I built a team to pursue the idea. One of my teammates, Yi Gai, designed a service that enabled concert goers to request artists to play in their city. Our third teammate, Sharanya Soundararajan, designed a service that offered concert venue owners a place to list their venue and handle booking requests from artists.
 
 Each of us conducted user research and designed flows for each of our stakeholders autonomously, offering each other regular feedback throughout the course. **I owned the user research process and designed the flow for artists.**
 
 ## Inspiration
-**When I was growing up, I wanted to be a professional musician more than anything.** However, I came of age during a massive shift in the music industry away from physical sales, which brought an equally massive decline in overall revenue. This left me with the impression that making a living as a musician would become even harder than it already was. In the intervening years, my passion for music has not wavered (insert shameless plugs here and here), but it has had to compete with my passion for UX design/engineering. Hence, when the opportunity arose to create a custom project in my first User Interface Design course, **I jumped at the opportunity to design a service that puts more power in artists’ hands** and empowers them to sustain their work on their own terms.
+**When I was growing up, I wanted to be a professional musician more than anything.** However, I came of age during a massive shift in the music industry away from physical sales, which brought an equally massive decline in overall revenue. This left me with the impression that making a living as a musician would become even harder than it already was. In the intervening years, my passion for music has not wavered (insert shameless plugs [here](https://www.instagram.com/anima1a1a1a1/) and [here](https://www.instagram.com/eminencebreak/)), but it has had to compete with my passion for UX design/engineering. Hence, when the opportunity arose to create a custom project in my first User Interface Design course, **I jumped at the opportunity to design a service that puts more power in artists’ hands** and empowers them to sustain their work on their own terms.
 
 ## Problem Space
 Due to the aforementioned shift in the music industry, artists tour far more frequently than they used to in order to sustain their work. However, touring is both physically and financially draining, and most emerging artists make no profit or even lose money from touring. **How might we enable emerging artists to profit more from touring?**
