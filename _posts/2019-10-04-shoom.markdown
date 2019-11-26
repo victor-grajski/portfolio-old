@@ -24,7 +24,7 @@ Due to the aforementioned shift in the music industry, artists tour far more fre
 
 <img src="/assets/shoom/graph.png" alt="graph" />
 
-##### This recent artist revenue breakdown from PwC (apologies for the pie chart) illustrates just how much artists rely on touring
+##### Artists have come to rely on touring to produce revenue as recorded revenue has decreased
 
 In order to create more touring profit for emerging artists, I hypothesized artists need the following:
 1. Know where their fans are
