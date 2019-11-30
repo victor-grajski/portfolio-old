@@ -9,6 +9,6 @@ image: /assets/dmv/splash-screen.png
 category: "Product Design"
 ---
 
-Case study forthcoming!
+<img src="/assets/dmv/splash-screen.png" alt="splash" />
 
 [InVision Prototype](https://invis.io/NEU60BEG58U){:target="_blank"}
