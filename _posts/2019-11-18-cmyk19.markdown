@@ -40,7 +40,7 @@ To make our wall physically interactive, our design incorporated movable panels 
 <img src="/assets/cmyk19/final_group.jpg" alt="final_group" />
 
 ## Branching Out
-To further build my visual design skills, I branched off in a more minimal direction inspired by Piet Mondrian. I found placing the colored hexagons in the same area as the portraits and movable to create a lot of visual noise. By removing the hexagons from that area, that freed up space to add personal narratives from the people in the photos to help build even more of a personal connection with the viewer, and I also wanted to give viewers from across the room a reason to approach the wall and explore it. In that vain, I redirected the colored hexagon elements into post-its so viewers could tell their own story to the community.
+To further build my visual design skills, I branched off in a more minimal direction inspired by Piet Mondrian. I found placing the colored hexagons in the same area as the portraits and movable to create a lot of visual noise. By removing the hexagons from that area, that freed up space to add personal narratives from the people in the photos to help build even more of a personal connection with the viewer, and I also wanted to give viewers from across the room more reasons to approach the wall and explore it. In that vain, I redirected the colored hexagon elements into post-its so viewers could tell their own story to the community.
 
 <img src="/assets/cmyk19/final_solo.png" alt="final_solo" />
 
