@@ -14,7 +14,7 @@ category: "Product Design"
 **[InVision Prototype](https://invis.io/NEU60BEG58U){:target="_blank"}**
 
 ## The Challenge
-The target user is an adult California resident who speaks English. This target user needs to visit an office to renew their license with a REAL ID. The main business goals are to have more people complete the flow and to reduce the number of customer complaints.
+The target user is an adult California resident who speaks English. This target user needs to visit a DMV office to renew their license with a REAL ID. The main business goals are to have more people complete the flow and to reduce the number of customer complaints.
 
 ## Landing Page
 I decided to simplify the appointment landing page by routing most of the help text to the FAQs and bringing the actions to the top of the page. I believe this was the right decision because the amount of text on the page previously obscured what actions the user could take and repeated much of what users can find in the FAQs. I believe something like making an appointment online is a common enough pattern that users don't need a paragraph explaining how to do so.
