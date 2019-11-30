@@ -13,6 +13,9 @@ category: "Product Design"
 
 **[InVision Prototype](https://invis.io/NEU60BEG58U){:target="_blank"}**
 
+## The Challenge
+The target user is an adult California resident who speaks English. This target user needs to visit an office to renew their license with a REAL ID. The main business goals are to have more people complete the flow and to reduce the number of customer complaints.
+
 ## Landing Page
 I decided to simplify the appointment landing page by routing most of the help text to the FAQs and bringing the actions to the top of the page. I believe this was the right decision because the amount of text on the page previously obscured what actions the user could take and repeated much of what users can find in the FAQs. I believe something like making an appointment online is a common enough pattern that users don't need a paragraph explaining how to do so.
 
@@ -45,3 +48,6 @@ Here I want to guide the user to booking the first available appointment but als
 I decided to create a dedicated page for users to refer back to leading up to their appointment and to use when they check in (the button renders an infobox with a QR code). I also envision a link to this page being sent in the reminder and confirmation email/text message. Having a central place to refer back to reduces cognitive load as users prepare for their appointment and may reduce customer complaints.
 
 <img src="/assets/dmv/confirm-appointment-before2.png" alt="confirm-appointment-before" /> <img src="/assets/dmv/day-of-after.png" alt="day-of-after" />
+
+## Takeaways
+As the first project in my second-year studio course, I am grateful to have had the opportunity to build my skills and confidence in solving a known design problem. Given the scope of the problem, it took me the full four weeks to come to a solution I felt strongly about. What helped me most was getting out of the building and getting people's feedback on my mockups. The power of understanding one's users and getting their feedback has continued to pleasantly surprise me, and it is one of the parts of being a designer I have come to enjoy the most.
