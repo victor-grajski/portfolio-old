@@ -26,3 +26,22 @@ I also included a progress bar with estimated time remaining in order to give us
 Finally, I included info boxes to clarify some of the finer details to the user without overwhelming them with text on the screen by default.
 
 <img src="/assets/dmv/book-an-appointment-before.png" alt="book-an-appointment-before" /> <img src="/assets/dmv/step-one-after2.png" alt="step-one" />
+
+### Choosing an Office
+Here I wanted to give users multiple paths to find their office using two common patterns: location and search. I believe offering multiple options is the right solution because users who are comfortable sharing their location, or are in a place where it makes sense to do so, will complete the flow faster. If users don't want to, or it doesn't make sense for them to find an office based on their current location, I wanted to offer a path to finding an office through search functionality.
+
+Once I know the area they're searching in, I decided to show the nearest office and one other office by default. This will keep the cognitive load low while preserving choice for the user. If they'd like, they can tap "More Offices" and more results will appear. I opted to only show one other office by default since most CA residents are most likely to go to the nearest office and may be in practical range of one other offices. But again, I'm still giving the user the option to see more offices if they prefer.
+
+I also believe giving the user the choice between booking the next available appointment right away or seeing more appointment times makes them feel in control of the process while allowing those users who want to complete the flow as quickly as possible a way to do so.
+
+<img src="/assets/dmv/find-an-office-before.png" alt="find-an-office-before" /> <img src="/assets/dmv/find-an-office-after.png" alt="find-an-office-after" />
+
+### Choosing a Time
+Here I want to guide the user to booking the first available appointment but also preserve the choice to choose their own time. They can either filter by the time slots available on a given day, or they can filter to which days have a given time slot available. I believe this was the right decision because user conceptualize their availability in different ways and I wanted to preserve that choice. Some users may only be available at a certain time of day or on a certain day.
+
+<img src="/assets/dmv/choose-a-time-before.png" alt="choose-a-time-before" /> <img src="/assets/dmv/choose-a-time-after.png" alt="choose-a-time-after" />
+
+## The Day Of
+I decided to create a dedicated page for users to refer back to leading up to their appointment and to use when they check in (the button renders an infobox with a QR code). I also envision a link to this page being sent in the reminder and confirmation email/text message. Having a central place to refer back to reduces cognitive load as users prepare for their appointment and may reduce customer complaints.
+
+<img src="/assets/dmv/confirm-appointment-before2.png" alt="confirm-appointment-before" /> <img src="/assets/dmv/day-of-after.png" alt="day-of-after" />
