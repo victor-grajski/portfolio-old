@@ -4,7 +4,27 @@ title:  "CMYK19 Designathon"
 date:   2019-11-04 12:52:01 -0700
 categories: jekyll update
 permalink: "/cmyk19"
-excerpt: "Shoom is an app to help emerging musical artists earn more money from touring by showing them where their potential new fans are and by allowing them to book gigs with similar artists."
-image: /assets/shoom/splash-screen350.png
+excerpt: "A visual design for a new 8x8 foot wall at 1951 Coffee Company"
+image: /assets/cmyk19/final_solo.png
 category: "Visual Design"
 ---
+
+<img src="/assets/cmyk19/final_solo.png" alt="final_solo" />
+
+## The Client
+
+## The Challenge
+
+## The Team
+<img src="/assets/cmyk19/team.png" alt="team" />
+
+## Ideation
+<img src="/assets/cmyk19/post_it.png" alt="post_it" />
+
+## Team Submission
+<img src="/assets/cmyk19/final_group.jpg" alt="final_group" />
+
+## Branching Out
+<img src="/assets/cmyk19/final_solo.png" alt="final_solo" />
+
+## Takeaways
