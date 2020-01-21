@@ -5,6 +5,6 @@ date:   2020-1-21 12:52:01 -0700
 categories: jekyll update
 permalink: "/journeyv1"
 excerpt: "Bridging the gap between psychotherapy sessions through personalized, structured journaling"
-image: /assets/journey/today1.png
+image: /assets/journeyv1/today1.png
 category: "Product Design"
 ---
