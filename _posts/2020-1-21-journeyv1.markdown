@@ -65,7 +65,7 @@ I'm also giving clients the option to add layers of protection like Face ID and 
 ## Provider-Side
 Provider intro
 
-<img src="/assets/journeyv1/provider_main.png" alt="provider_main" />
+<img src="/assets/journeyv1/provider_main800.png" alt="provider_main" />
 Given therapists' time is constrained to the last five minutes of each session, I wanted to make the process of wrapping up a session as lightweight as possible. To that end, all the therapist has to do is choose journal topics, confirm the time for the the next session, and write a small snippet for their client to think about on their way out.
 
 <img src="/assets/journeyv1/choose_topics.png" alt="choose_topics" />
