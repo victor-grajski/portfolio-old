@@ -9,14 +9,46 @@ image: /assets/journeyv1/today1.png
 category: "Product Design"
 ---
 
-Work in progress!
+<img src="/assets/journeyv1/today1.png" alt="splash" />
 
 **[Client-side Prototype](https://www.figma.com/proto/FT1TJLTnzBh0TGV3i5iv6G/v1?node-id=42%3A0&scaling=scale-down){:target="_blank"}**
 
 **[Provider-side Prototype](https://www.figma.com/proto/NUaTPF3WvQXSl8i8PjeVxS/v1?scaling=min-zoom&node-id=1%3A2){:target="_blank"}** (I like to set the zoom level to Fill and scroll down)
 
-## Context
+## Introduction
+- Journey is...
+- First iteration of Capstone
+- 4 week PDS project
+- Advised by a private-practice psychotherapist
+- 3 generative interviews with clients
+- 3 evaluative interviews with same clients
 
-## Breadth or depth?
+## Problem Space
+- Psychotherapists and their clients meet, at most, once a week
+- A lot can happen between sessions
+- Clients want to make sense of what’s happening and make the most of their sessions
+- Therapists want to help their clients between sessions but they don’t have time
 
-## Where does journaling fit?
+## Goals
+- “Make the week feel a bit shorter”
+- Mindfully continue the therapeutic process between sessions
+
+## Target Users
+- Private practice psychotherapists (modality-agnostic)
+- Their clients
+
+## Why Journaling?
+- Literature
+- Interview findings
+-- Therapists: time constraints. clients also use their phones in session
+-- Clients: To-Do List Effect
+
+## Client-Side Highlights
+- Dynamic Today view
+- Journal highlights
+- Timeline
+
+## Provider-Side Highlights
+- Choose Topics
+- Confirm Next Session
+- On Their Way Out
