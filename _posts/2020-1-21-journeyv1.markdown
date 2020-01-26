@@ -32,9 +32,11 @@ Journey's target users are private-practice psychotherapists and their clients.
 Journaling is a well-studied way to process both traumatic and non-traumatic stressful events, and psychotherapists often recommend journaling to their clients. Through my interviews with therapists and clients, I found that therapists' time is highly constrained, so my hypothesis is that by having therapists provide personalized prompts for their clients, clients will feel more at ease between sessions, and they will be able to get more out of their sessions by having a repository of what they were thinking and feeling between sessions.
 
 I also focused on journaling instead of attempting to incorporate a number of different activities like mindfulness, readings, and exercise into one service because I found through interviewing clients that they did not want to feel like they had another to-do list to worry about.
+
 <img src="/assets/journeyv1/today_v0.png" alt="today_v0" />
 
 In earlier iterations, I also went back and forth between how much synthesis between sessions I should enable for clients, however, the therapist I was working with advised me it was best to keep synthesis within the sessions, and the clients I spoke with said they would not feel comfortable synthesizing their thoughts and feelings between sessions in addition to responding to the journal prompts.
+
 <img src="/assets/journeyv1/synthesis.png" alt="synthesis" />
 
 ## Client-Side
