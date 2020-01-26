@@ -16,39 +16,56 @@ category: "Product Design"
 **[Provider-side Prototype](https://www.figma.com/proto/NUaTPF3WvQXSl8i8PjeVxS/v1?scaling=min-zoom&node-id=1%3A2){:target="_blank"}** (I like to set the zoom level to Fill and scroll down)
 
 ## Introduction
-- Journey is...
-- First iteration of Capstone
-- 4 week PDS project
-- Advised by a private-practice psychotherapist
-- 3 generative interviews with clients
-- 3 evaluative interviews with same clients
+Journey is a service designed to bridge the gap between psychotherapy sessions through personalized, structured journaling. It consists of a mobile application for clients, and a desktop web portal for therapists. At the end of a session, therapists and clients will decide on the journal prompts they want to focus on in the week ahead. Each day, clients will have the opportunity to write what comes to mind for each prompt and highlight the parts that stand out to them so that before a session, they can have an easy way to decide what they'd like to focus on in the session.
 
-## Problem Space
-- Psychotherapists and their clients meet, at most, once a week
-- A lot can happen between sessions
-- Clients want to make sense of what’s happening and make the most of their sessions
-- Therapists want to help their clients between sessions but they don’t have time
+I designed this service in my Product Design Studio course at the UC Berkeley School of Information over a period of 4 weeks. I was advised by a private-practice psychotherapist along the way to ensure I was not causing undue harm. I also conducted generative and evaluative interviews with 3 people who are in therapy or have recently been in therapy. In addition, I intend to use this design as a first iteration for my capstone project which my team and I are currently working on.
+
+I was inspired to design this service because psychotherapists and their clients meet, at most, once a week, and in that time, a lot can happen. Clients want to make sense of what’s happening between sessions, and they want to make the most of their sessions, but therapists – as much as they want to help – do not have time to support their clients between sessions.
 
 ## Goals
-- “Make the week feel a bit shorter”
-- Mindfully continue the therapeutic process between sessions
+Journey's goals are to make the time between sessions feel shorter as well as mindfully continue the therapeutic process between sessions.
 
 ## Target Users
-- Private practice psychotherapists (modality-agnostic)
-- Their clients
+Journey's target users are private-practice psychotherapists and their clients.
 
 ## Why Journaling?
-- Literature
-- Interview findings
--- Therapists: time constraints. clients also use their phones in session
--- Clients: To-Do List Effect
+Journaling is a well-studied way to process both traumatic and non-traumatic stressful events, and psychotherapists often recommend journaling to their clients. Through my interviews with therapists and clients, I found that therapists' time is highly constrained, so my hypothesis is that by having therapists provide personalized prompts for their clients, clients will feel more at ease between sessions, and they will be able to get more out of their sessions by having a repository of what they were thinking and feeling between sessions.
 
-## Client-Side Highlights
-- Dynamic Today view
-- Journal highlights
-- Timeline
+I also focused on journaling instead of attempting to incorporate a number of different activities like mindfulness, readings, and exercise into one service because I found through interviewing clients that they did not want to feel like they had another to-do list to worry about.
+
+## Client-Side
+### Dynamic Today Tab
+The Today tab will be the main hub of the app, and it will cycle between a number of different states depending on the time of their session, which is set by the therapist.
+
+<img src="/assets/journeyv1/today1.png" alt="splash" />
+Each day between sessions, clients will get a new topic and prompt from their therapist. Clients can write as much as they want, and they can highlight part of their response that stand out to them for easy future reference.
+
+<img src="/assets/journeyv1/today_pre_session.png" alt="today_pre_session" />
+On the day of the session, the Today tab will start off with a pre-session check-in.
+
+<img src="/assets/journeyv1/today_during_session.png" alt="today_during_session" />
+During the session, the Today tab will have its own state to make recalling journal entries as lightweight as possible.
+
+<img src="/assets/journeyv1/today_post_session.png" alt="today_post_session" />
+Finally, after a session, clients will be given a short wrap-up activity.
+
+### Timeline
+The other main view in the app is Timeline which gives easy access to previous journal entries and session activities (pre-session and post-session). While the focus of the app is to keep clients in the present, I want to provide the opportunity for clients to reflect and make sense of their progress in therapy.
+
+### Privacy
+On the client-side, instead of creating an account with an email/password, I envision the therapist giving their client a unique access code. This will minimize the personal information we are collecting on the client, which is minimally necessary anyway since all the journal data will be stored locally.
+
+Because the majority of therapists don't have time to review journal entries between sessions, I believe it's in the client's best interest to store data locally and create another account that can be hacked, or yet another one the client needs to keep track of, given the sensitive nature of the content they may be writing.
+
+I'm also giving clients the option to add layers of protection like Face ID and a passcode as well as giving them the option to delete their local data.
 
 ## Provider-Side Highlights
-- Choose Topics
-- Confirm Next Session
-- On Their Way Out
+Given therapists' time is constrained to the last five minutes of each session, I wanted to make the process of wrapping up a session as lightweight as possible. To that end, all the therapist has to do is choose journal topics, confirm the time for the the next session, and write a small snippet for their client to think about on their way out.
+
+
+
+To speed up the process of assigning journal topics for the upcoming week, I envision having a library of topics to choose from that the therapist can maintain themselves organized by the modalities they practice. In the future, I can envision creating a standardized library for each modality. During the session wrap-up, all the therapist has to do is click to assign a topic for that day instead of manually writing it in every time.
+
+To preserve flexibility, I'm giving therapists the options to write their own prompts on-the-fly and save them to a category for future use.
+
+## Takeaways
