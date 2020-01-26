@@ -68,7 +68,7 @@ Provider intro
 <img src="/assets/journeyv1/provider_main800.png" alt="provider_main" />
 Given therapists' time is constrained to the last five minutes of each session, I wanted to make the process of wrapping up a session as lightweight as possible. To that end, all the therapist has to do is choose journal topics, confirm the time for the the next session, and write a small snippet for their client to think about on their way out.
 
-<img src="/assets/journeyv1/choose_topics.png" alt="choose_topics" />
+<img src="/assets/journeyv1/choose_topics800.png" alt="choose_topics" />
 To speed up the process of assigning journal topics for the upcoming week, I envision having a library of topics to choose from that the therapist can maintain themselves organized by the modalities they practice. In the future, I can envision creating a standardized library for each modality. During the session wrap-up, all the therapist has to do is click to assign a topic for that day instead of manually writing it in every time. To preserve flexibility, I'm giving therapists the options to write their own prompts on-the-fly and save them to a category for future use.
 
 ## Takeaways
