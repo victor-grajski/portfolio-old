@@ -76,6 +76,4 @@ To speed up the process of assigning journal topics for the upcoming week, I env
 <img src="/assets/journeyv1/choose_topics800.png" alt="choose_topics" />
 
 ## Takeaways
-- Starting point
-- look forward to iterating on it through IRB-approved research
-- learned the value of defining the problem as much as possible
+I enjoyed discovering how I might help therapists and their clients between sessions by working closely with each group, listening to their needs, making educated design decisions, and evaluating my designs with them. This feedback loop allowed me to get to the heart of what therapists and their clients need between sessions in a short amount of time, and I look forward to continuing the process in my capstone project. 
