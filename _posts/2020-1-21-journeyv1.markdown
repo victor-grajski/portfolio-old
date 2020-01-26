@@ -13,7 +13,7 @@ category: "Product Design"
 
 **[Client-side Prototype](https://www.figma.com/proto/FT1TJLTnzBh0TGV3i5iv6G/v1?node-id=42%3A0&scaling=scale-down){:target="_blank"}**
 
-**[Provider-side Prototype](https://www.figma.com/proto/NUaTPF3WvQXSl8i8PjeVxS/v1?scaling=min-zoom&node-id=1%3A2){:target="_blank"}** (I like to set the zoom level to Fill and scroll down)
+**[Provider-side Prototype](https://www.figma.com/proto/NUaTPF3WvQXSl8i8PjeVxS/v1?scaling=min-zoom&node-id=1%3A2){:target="_blank"}** (I like to set the zoom level to Width and scroll down)
 
 ## Introduction
 Journey is a service designed to bridge the gap between psychotherapy sessions through personalized, structured journaling. It consists of a mobile application for clients, and a desktop web portal for therapists. At the end of a session, therapists and clients will decide on the journal prompts they want to focus on in the week ahead. Each day, clients will have the opportunity to write what comes to mind for each prompt and highlight the parts that stand out to them so that before a session, they can have an easy way to decide what they'd like to focus on in the session.
@@ -52,20 +52,26 @@ Finally, after a session, clients will be given a short wrap-up activity.
 ### Timeline
 The other main view in the app is Timeline which gives easy access to previous journal entries and session activities (pre-session and post-session). While the focus of the app is to keep clients in the present, I want to provide the opportunity for clients to reflect and make sense of their progress in therapy.
 
+<img src="/assets/journeyv1/timeline.png" alt="timeline" />
+
 ### Privacy
 On the client-side, instead of creating an account with an email/password, I envision the therapist giving their client a unique access code. This will minimize the personal information we are collecting on the client, which is minimally necessary anyway since all the journal data will be stored locally.
 
-Because the majority of therapists don't have time to review journal entries between sessions, I believe it's in the client's best interest to store data locally and create another account that can be hacked, or yet another one the client needs to keep track of, given the sensitive nature of the content they may be writing.
+Because the majority of therapists don't have time to review journal entries between sessions, I believe it's in the client's best interest to store data locally and not create another account that can be hacked, or yet another one the client needs to keep track of, given the sensitive nature of the content they may be writing.
 
+<img src="/assets/journeyv1/settings.png" alt="settings" />
 I'm also giving clients the option to add layers of protection like Face ID and a passcode as well as giving them the option to delete their local data.
 
-## Provider-Side Highlights
+## Provider-Side
+Provider intro
+
+<img src="/assets/journeyv1/provider_main.png" alt="provider_main" />
 Given therapists' time is constrained to the last five minutes of each session, I wanted to make the process of wrapping up a session as lightweight as possible. To that end, all the therapist has to do is choose journal topics, confirm the time for the the next session, and write a small snippet for their client to think about on their way out.
 
-
-
-To speed up the process of assigning journal topics for the upcoming week, I envision having a library of topics to choose from that the therapist can maintain themselves organized by the modalities they practice. In the future, I can envision creating a standardized library for each modality. During the session wrap-up, all the therapist has to do is click to assign a topic for that day instead of manually writing it in every time.
-
-To preserve flexibility, I'm giving therapists the options to write their own prompts on-the-fly and save them to a category for future use.
+<img src="/assets/journeyv1/choose_topics.png" alt="choose_topics" />
+To speed up the process of assigning journal topics for the upcoming week, I envision having a library of topics to choose from that the therapist can maintain themselves organized by the modalities they practice. In the future, I can envision creating a standardized library for each modality. During the session wrap-up, all the therapist has to do is click to assign a topic for that day instead of manually writing it in every time. To preserve flexibility, I'm giving therapists the options to write their own prompts on-the-fly and save them to a category for future use.
 
 ## Takeaways
+- Starting point
+- look forward to iterating on it through IRB-approved research
+- learned the value of defining the problem as much as possible
