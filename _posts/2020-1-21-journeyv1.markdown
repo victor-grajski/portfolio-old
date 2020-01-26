@@ -35,7 +35,7 @@ I also focused on journaling instead of attempting to incorporate a number of di
 <img src="/assets/journeyv1/today_v0.png" alt="today_v0" />
 
 In earlier iterations, I also went back and forth between how much synthesis between sessions I should enable for clients, however, the therapist I was working with advised me it was best to keep synthesis within the sessions, and the clients I spoke with said they would not feel comfortable synthesizing their thoughts and feelings between sessions in addition to responding to the journal prompts.
-<img src="/assets/journeyv1/insights.png" alt="insights" />
+<img src="/assets/journeyv1/synthesis.png" alt="synthesis" />
 
 ## Client-Side
 ### Dynamic Today Tab
