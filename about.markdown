@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hello, I'm Victor Grajski.
 
-I'm a Product Designer, [musician](https://instagram.com/anima1a1a1a1), and a second-year Master's student at the [UC Berkeley School of Information](https://ischool.berkeley.edu).
+I'm a meep, [musician](https://instagram.com/anima1a1a1a1), and a second-year Master's student at the [UC Berkeley School of Information](https://ischool.berkeley.edu).
 
 Through studying at Berkeley, I have fully realized my desire to be a Product Designer because I can bring my whole self into the product development process, from listening and empathizing with users to delivering polished, beautiful artifacts that address their pain points.
 
