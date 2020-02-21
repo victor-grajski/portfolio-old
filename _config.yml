@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  victor-grajski
 linkedin_username: victor-grajski
-description: "UX Engineer, Musician, UC Berkeley School of Information Master's Student"
+description: "Product Designer, Musician, UC Berkeley School of Information Master's Student"
 email: vgrajski@ischool.berkeley.edu
 
 # Build settings
